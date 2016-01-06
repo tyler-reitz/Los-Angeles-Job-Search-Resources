@@ -1,7 +1,5 @@
 #Job Search Resources
 
-##Job Sites
-
 ###Sites & Orgs
 
 - [Angel.co](https://angel.co/jobs)
@@ -23,6 +21,11 @@
 - [Vitamin T](http://vitamintalent.com/find-work/?k=javascript&l=13&site1=on)
 - [24seven Talent](http://www.24seventalent.com/job-search/developer-los+angeles--all-all--all-all-all#job)
 - [JobSpring](http://www.jobspringpartners.com/)
+
+## Job Boards
+
+- [ZipRecruiter](https://www.ziprecruiter.com/candidate/suggested-jobs)
+- [Authentic Jobs](https://authenticjobs.com/)
 
 ## Slack Groups
 
