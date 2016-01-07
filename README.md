@@ -1,4 +1,4 @@
-#LA[-centric] Job Search Resources
+#Los Angeles Job Search Resources
 
 ###Sites & Orgs
 
