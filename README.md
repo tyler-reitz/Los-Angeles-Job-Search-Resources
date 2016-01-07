@@ -29,11 +29,17 @@
 
 ## Slack Groups
 
+- [FrontEndDevelopers](https://frontenddevelopers.slack.com/)
 - [JavaScriptLA](https://javascriptla.slack.com/)
+- [LearnToCodeLA](https://learntocodela.slack.com/)
 
 ## Facebook Groups
 
 - [GA LA Alumni](https://www.facebook.com/groups/GALAalumni/)
+- [WeAreLATech](https://www.facebook.com/groups/wearelatech/?ref=browser)
+- [DTLAStartups](https://www.facebook.com/groups/DTLAStartUps/?ref=browser)
+- [WestsideYoungProfessionals](https://www.facebook.com/groups/WestsideYoungProfessionals/?ref=browser)
+- [DTLAJobs](https://www.facebook.com/groups/dtlajobs/?ref=browser)
 
 ##Articles & Resources
 
