@@ -1,4 +1,4 @@
-#Job Search Resources
+#LA[-centric] Job Search Resources
 
 ###Sites & Orgs
 
