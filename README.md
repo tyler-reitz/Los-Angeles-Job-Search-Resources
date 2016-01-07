@@ -1,6 +1,6 @@
 #Los Angeles Job Search Resources
 
-###Sites & Orgs
+##Sites & Orgs
 
 - [Angel.co](https://angel.co/jobs)
 
