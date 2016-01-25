@@ -6,6 +6,7 @@
 
 ####LA-based
 
+– [SiliconBeachLA](http://siliconbeachla.com/jobs)
 - [BuiltInLA](http://www.builtinla.com/jobs)
 - [WeAreLATech](http://wearelatech.com/jobs/)
 
