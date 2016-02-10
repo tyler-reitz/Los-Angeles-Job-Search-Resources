@@ -6,6 +6,7 @@
 
 ####LA-based
 
+– [Upfront Ventures](http://upfront.com/jobs/)
 - [SiliconBeachLA](http://siliconbeachla.com/jobs)
 - [BuiltInLA](http://www.builtinla.com/jobs)
 - [WeAreLATech](http://wearelatech.com/jobs/)
