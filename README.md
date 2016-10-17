@@ -51,3 +51,9 @@
 ## Events
 
 - [Meetup](http://www.meetup.com/)
+
+## Tools
+
+- [JsonResume] (https://github.com/jsonresume/resume-cli)
+- [HackMyResume] (https://github.com/hacksalot/HackMyResume)
+
