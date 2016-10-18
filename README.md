@@ -3,8 +3,8 @@
 ## Sites & Orgs
 
 - [Angel.co](https://angel.co/jobs)
-- [Product Hunt     – https://www.producthunt.com/jobs] (https://www.producthunt.com/jobs)
-- [Stack Overflow   – http://stackoverflow.com/jobs] (http://stackoverflow.com/jobs?sort=i&location=Los+Angeles&range=20&distanceUnits=Miles )
+- [Product Hunt – https://www.producthunt.com/jobs] (https://www.producthunt.com/jobs)
+- [Stack Overflow – http://stackoverflow.com/jobs (good for job descriptions)] (http://stackoverflow.com/jobs?sort=i&location=Los+Angeles&range=20&distanceUnits=Miles )
 
 #### LA-based
 
