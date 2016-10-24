@@ -32,6 +32,7 @@
 
 ## Slack Groups
 
+- [Slack List – _List of popular Slacks_](http://www.slacklist.info/)
 - [FrontEndDevelopers](https://frontenddevelopers.slack.com/)
 - [JavaScriptLA](https://javascriptla.slack.com/)
 - [LearnToCodeLA](https://learntocodela.slack.com/)
