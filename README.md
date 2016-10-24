@@ -38,6 +38,7 @@
 - [Hack for LA](https://hackforla.slack.com/)
 - [LearnToCodeLA](https://learntocodela.slack.com/)
 - [TechTinx](https://techtinos.slack.com/)
+- [Santa Monica Haskell](https://santamonicahaskell.slack.com/)
 
 ## Google Groups
 
