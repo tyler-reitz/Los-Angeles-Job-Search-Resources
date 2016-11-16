@@ -40,6 +40,7 @@
 - [LearnToCodeLA](https://learntocodela.slack.com/)
 - [TechTinx](https://techtinos.slack.com/)
 - [Santa Monica Haskell](https://santamonicahaskell.slack.com/)
+- [Carbon Five Hack Nights](https://carbonfivehacknights-slack.herokuapp.com/)
 
 ## Google Groups
 
