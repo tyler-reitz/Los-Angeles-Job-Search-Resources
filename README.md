@@ -35,11 +35,12 @@
 - [Slack List – _List of popular Slacks_](http://www.slacklist.info/)
 - [FrontEndDevelopers](https://frontenddevelopers.slack.com/)
 - [JavaScriptLA](https://javascriptla.slack.com/)
-- [js.la](http://jsla.slack.com/)
+- [js.la](https://jsla-slackin.herokuapp.com/)
 - [Hack for LA](https://hackforla.slack.com/)
-- [LearnToCodeLA](https://learntocodela.slack.com/)
+- [LearnToCodeLA](https://learntocodela.herokuapp.com/)
 - [TechTinx](https://techtinos.slack.com/)
 - [Santa Monica Haskell](https://santamonicahaskell.slack.com/)
+- [Santa Monica Elixir](http://santa-monica-elixir-slackin.herokuapp.com/)
 
 ## Google Groups
 
