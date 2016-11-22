@@ -69,5 +69,6 @@
 - [JsonResume] (https://github.com/jsonresume/resume-cli)
 - [HackMyResume] (https://github.com/hacksalot/HackMyResume)
 
-## Misc && - [...Easy To Apply To Dev Companies](https://github.com/j-delaney/easy-application?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
+## Misc
+- [...Easy To Apply To Dev Companies](https://github.com/j-delaney/easy-application?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
 
