@@ -3,8 +3,8 @@
 ## Sites & Orgs
 
 - [Angel.co](https://angel.co/jobs)
-- [Product Hunt] (https://www.producthunt.com/jobs)
-- [Stack Overflow (good for job descriptions)] (http://stackoverflow.com/jobs?sort=i&location=Los+Angeles&range=20&distanceUnits=Miles )
+- [Product Hunt](https://www.producthunt.com/jobs)
+- [Stack Overflow](good for job descriptions)] (http://stackoverflow.com/jobs?sort=i&location=Los+Angeles&range=20&distanceUnits=Miles )
 
 #### LA-based
 
@@ -19,7 +19,7 @@
 
 ## Recruitment Agencies
 
-- [AktaryTech] (http://www.aktarytech.com)
+- [AktaryTech](http://www.aktarytech.com)
 - [Creative Circle](https://www.creativecircle.com/talent)
 - [Vitamin T](http://vitamintalent.com/find-work/?k=javascript&l=13&site1=on)
 - [24seven Talent](http://www.24seventalent.com/job-search/developer-los+angeles--all-all--all-all-all#job)
@@ -57,9 +57,10 @@
 
 ## Articles & Resources
 
-- [Quora Hack Reactor Founder Strategy](https://www.quora.com/Im-about-to-graduate-from-Dev-Bootcamp-programming-bootcamp-how-can-I-best-spend-my-time-job-hunting)
+- [After you get the interview appointment...](https://gist.github.com/machikoyasuda/57e8477b59980287ab3fc9a0e37422fa) - a great checklist to prompt your interview research
 - [Developers Guide To Interviewing](https://medium.com/@djsmith42/how-to-interview-as-a-developer-candidate-b666734f12dd#.xzk5q0mh0)
-– [Visualizing a Job Search or: How to find a Job as a Software Engineer](http://kellysutton.com/2016/10/20/visualizing-a-job-search-or-how-to-find-a-job-as-a-software-engineer.html)
+- [Quora Hack Reactor Founder Strategy](https://www.quora.com/Im-about-to-graduate-from-Dev-Bootcamp-programming-bootcamp-how-can-I-best-spend-my-time-job-hunting)
+- [Visualizing a Job Search: Or, How to find a Job as a Software Engineer](http://kellysutton.com/2016/10/20/visualizing-a-job-search-or-how-to-find-a-job-as-a-software-engineer.html)
 
 ## Events
 
@@ -67,9 +68,8 @@
 
 ## Tools
 
-- [JsonResume] (https://github.com/jsonresume/resume-cli)
-- [HackMyResume] (https://github.com/hacksalot/HackMyResume)
+- [JsonResume](https://github.com/jsonresume/resume-cli)
+- [HackMyResume](https://github.com/hacksalot/HackMyResume)
 
 ## Misc
 - [...Easy To Apply To Dev Companies](https://github.com/j-delaney/easy-application?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
-
