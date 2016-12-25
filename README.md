@@ -59,7 +59,7 @@
 
 - [After you get the interview appointment...](https://gist.github.com/machikoyasuda/57e8477b59980287ab3fc9a0e37422fa)
 - [Developers Guide To Interviewing](https://medium.com/@djsmith42/how-to-interview-as-a-developer-candidate-b666734f12dd#.xzk5q0mh0)
-- [Quora Hack Reactor Founder Strategy](https://www.quora.com/Im-about-to-graduate-from-Dev-Bootcamp-programming-bootcamp-how-can-I-best-spend-my-time-job-hunting)
+- [Quora Hack Reactor Founder – Job Search Strategy](https://www.quora.com/Im-about-to-graduate-from-Dev-Bootcamp-programming-bootcamp-how-can-I-best-spend-my-time-job-hunting)
 - [Visualizing a Job Search: Or, How to find a Job as a Software Engineer](http://kellysutton.com/2016/10/20/visualizing-a-job-search-or-how-to-find-a-job-as-a-software-engineer.html)
 
 ## Events
@@ -71,6 +71,7 @@
 
 - [JsonResume](https://github.com/jsonresume/resume-cli)
 - [FRESCA](https://github.com/fresh-standard/FRESCA) FRESH Resume and Employment Schema
+- [FluentCV](https://www.npmjs.com/package/fluentcv)
 - [HackMyResume](https://github.com/hacksalot/HackMyResume)
 
 ## Misc
