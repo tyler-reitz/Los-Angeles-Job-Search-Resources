@@ -70,6 +70,7 @@
 ## Tools
 
 - [JsonResume](https://github.com/jsonresume/resume-cli)
+- [FRESCA](https://github.com/fresh-standard/FRESCA) FRESH Resume and Employment Schema
 - [HackMyResume](https://github.com/hacksalot/HackMyResume)
 
 ## Misc
