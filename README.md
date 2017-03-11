@@ -57,6 +57,9 @@
 
 ## Articles & Resources
 
+- [Questions I'm asking in interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/)
+  - [jvns/interview-questions.md](https://gist.github.com/jvns/8178076)
+  - [Questions to ask your future web dev employer](https://medium.com/@edwardog/questions-to-ask-your-future-web-dev-employer-f7a161b5bc70#.vw9ppildw)
 - [After you get the interview appointment...](https://gist.github.com/machikoyasuda/57e8477b59980287ab3fc9a0e37422fa)
 - [Developers Guide To Interviewing](https://medium.com/@djsmith42/how-to-interview-as-a-developer-candidate-b666734f12dd#.xzk5q0mh0)
 - [Quora Hack Reactor Founder – Job Search Strategy](https://www.quora.com/Im-about-to-graduate-from-Dev-Bootcamp-programming-bootcamp-how-can-I-best-spend-my-time-job-hunting)
