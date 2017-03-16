@@ -79,3 +79,4 @@
 
 ## Misc
 - [...Easy To Apply To Dev Companies](https://github.com/j-delaney/easy-application?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
+- [Companies that don't do whiteboard interviews.](https://github.com/poteto/hiring-without-whiteboards)
