@@ -34,6 +34,7 @@
 ## Slack Groups
 
 - [Slack List – _List of popular Slacks_](http://www.slacklist.info/)
+- [Carbon Five Hack Nights](https://carbonfivehacknights-slack.herokuapp.com/)
 - [FrontEndDevelopers](https://frontenddevelopers.slack.com/)
 - [JavaScriptLA](https://javascriptla.slack.com/)
 - [js.la](https://jsla-slackin.herokuapp.com/)
